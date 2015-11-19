@@ -1,6 +1,6 @@
 name: shanwaa
- version: 4
+  version: 4
  
- libraries:
- - name: django
-   version: "1.8.3"
+  libraries:
+  - name: django 
+    version: "1.8.3"
